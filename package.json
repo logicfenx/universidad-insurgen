@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/universidad-insurgen",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a universidad-insurgen",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/universidad-insurgen.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.logicfen.org/blog/universidad-insurgentes-plantel-ermita/"
+    },
+    "homepage": "https://www.logicfen.org/blog/universidad-insurgentes-plantel-ermita/"
+}
